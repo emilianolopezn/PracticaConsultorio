@@ -10,5 +10,8 @@ namespace PracticaConsultorio
     {
         public static List<Paciente> pacientes =
             new List<Paciente>();
+
+        public static List<Consulta> consultas =
+            new List<Consulta>();
     }
 }
